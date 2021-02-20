@@ -1,0 +1,198 @@
+Credits
+
+Base Game Developer
+Mojang/ Microsoft
+
+Modloader
+Curseforge
+
+Modpack Builder
+SocialEdge Media- FlagshipKilla25 
+
+Mods
+
+AlcatrazEscapee 
+ChocolateFix
+
+AlgorithmX2
+Chisel&Bits
+
+ATM Team
+All The Ores
+
+Bl4ckScor3
+XPTome
+
+BlakeBr0
+Mystical Agriculture
+Mystical Agradditions
+Cucumber Library
+Pickle Tweaks
+
+BlayTheNinth
+Client Tweaks
+Cooking For Blockheads
+Crafting Tweaks
+Farming For Blockheads
+Nether Portal Fix
+Trashslot
+Waystones
+
+bradyaidnc
+Mekanism
+Mekanism Additions
+Mekanism Generators
+Mekanism Tools
+
+Darkere
+Crash Utilities
+
+DarkHaxDev
+Badmobs
+Bookshelf
+
+DenisMasterHerobrine
+AngelRing
+
+DinnerBeef
+Compressium
+
+elucent_
+Eidolon
+
+Flaxbeard
+Immersive Petroleum
+
+ForstRide
+Biomes o' Plenty
+
+FTB
+FTB Backups
+FTB Essentials
+FTB Ultimine
+
+HellfirePvP
+Astral Sorcery
+Observer Lib
+
+HycraftHD
+UteamCore
+
+JaredIII08
+Clumps
+
+Kroeser
+Common Capabilities
+Cyclops Core
+
+Lothrazar
+Absent By Design
+
+Malte0811
+Ferrite Core ******couldnt Make this work the way it does without******
+
+McJty
+RFTools Base
+McJty Lib
+Xnet
+
+mDiyo
+Mantle
+
+MelanX
+AIOT Botania
+
+Mezz
+JEI
+
+Olafskiii
+Fast Leaf Decay
+
+pamharvestcraft
+Pam's Harvest Craft2
+Pam's Trees
+Pam's Crops
+
+Partonetrain
+Mana Gear
+
+ProgWML6
+IronChests
+
+Shadows_of_Fire
+Apotheosis
+PackMenu
+Placebo
+Wither Skeleton Tweaks
+
+ShetiPhian
+EnderChests
+EnderTanks
+ShetiPhian Core
+
+SilentChaos512
+Silent Lib
+
+Sketch_Macaw
+Macaw's Windows
+Macaw's Bridges
+Macaw's Doors
+Macaw's Roofs
+Macaw's Trapdoors
+
+SnowShock35
+JEI integration
+
+squeek502
+Appleskin
+
+SquidDev
+CC: Tweaked
+
+Sunekaer
+Flat Bedrock
+
+Team CofH
+Archers Paradox
+Oh My Gourd
+
+TexelSaur
+StorageDrawers
+
+tfarecnim
+Balanced Enchanting
+
+TheGoldCrayon
+Ropes Mod!
+
+TheIllusiveC4
+Comforts (Forge)
+Curios Api
+
+TheRealCalemi
+Calemi's Utilities
+
+TheVortexFoxTopia
+Cartographer
+PotionsMaster
+
+Vazkii
+Patchouli
+Botania
+
+XIROC1337
+Dungeon Crawl
+
+YaLTeR
+MouseTweaks
+
+YUNGNICKYOUNG
+Yungs Api
+Yungs Better Mineshafts
+
+TJAC ARMY!!
+
+Patreons
+
+FB Followers
+
